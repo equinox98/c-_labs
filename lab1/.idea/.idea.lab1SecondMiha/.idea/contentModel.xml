@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="lab1SecondMiha" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Builder" t="Include">
+          <e p="CircleBuilder.cs" t="Include" />
+          <e p="Director.cs" t="Include" />
+          <e p="SquareBuilder.cs" t="Include" />
+          <e p="ThreeAngleBuilder.cs" t="Include" />
+        </e>
+        <e p="Figure" t="Include">
+          <e p="Circle.cs" t="Include" />
+          <e p="IFigure.cs" t="Include" />
+          <e p="Square.cs" t="Include" />
+          <e p="ThreeAngle.cs" t="Include" />
+        </e>
+        <e p="lab1SecondMiha.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="lab1SecondMiha.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="lab1SecondMiha.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_lab1SecondMiha.-984560607.00" t="ExcludeRecursive" />
+  </component>
+</project>
