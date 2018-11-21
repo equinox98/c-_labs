@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Transporter.Application/1.0.0": {
+        "dependencies": {
+          "Transporter.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Transporter.Application.dll": {}
+        }
+      },
+      "Transporter.Domain/1.0.0": {
+        "runtime": {
+          "Transporter.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Transporter.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Transporter.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

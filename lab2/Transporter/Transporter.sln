@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transporter.Domain", "Transporter.Domain\Transporter.Domain.csproj", "{893E1415-AB40-4EB5-92C6-1A20EAD4670E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transporter.Application", "Transporter.Application\Transporter.Application.csproj", "{00D1A4A8-7DAE-4580-9011-2956C80355FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{893E1415-AB40-4EB5-92C6-1A20EAD4670E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893E1415-AB40-4EB5-92C6-1A20EAD4670E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893E1415-AB40-4EB5-92C6-1A20EAD4670E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893E1415-AB40-4EB5-92C6-1A20EAD4670E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D1A4A8-7DAE-4580-9011-2956C80355FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D1A4A8-7DAE-4580-9011-2956C80355FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D1A4A8-7DAE-4580-9011-2956C80355FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D1A4A8-7DAE-4580-9011-2956C80355FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

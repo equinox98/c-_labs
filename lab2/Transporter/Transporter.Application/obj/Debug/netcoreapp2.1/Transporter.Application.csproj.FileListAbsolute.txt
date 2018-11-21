@@ -1,0 +1,14 @@
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Application.deps.json
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Application.runtimeconfig.json
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Application.runtimeconfig.dev.json
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Application.dll
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Application.pdb
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Domain.dll
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/bin/Debug/netcoreapp2.1/Transporter.Domain.pdb
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.csprojAssemblyReference.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.csproj.CoreCompileInputs.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.AssemblyInfoInputs.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.AssemblyInfo.cs
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.csproj.CopyComplete
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.dll
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Application/obj/Debug/netcoreapp2.1/Transporter.Application.pdb

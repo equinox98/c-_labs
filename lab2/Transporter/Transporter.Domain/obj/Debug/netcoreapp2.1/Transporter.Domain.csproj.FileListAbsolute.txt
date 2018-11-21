@@ -1,0 +1,9 @@
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/bin/Debug/netcoreapp2.1/Transporter.Domain.deps.json
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/bin/Debug/netcoreapp2.1/Transporter.Domain.dll
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/bin/Debug/netcoreapp2.1/Transporter.Domain.pdb
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.csprojAssemblyReference.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.csproj.CoreCompileInputs.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.AssemblyInfoInputs.cache
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.AssemblyInfo.cs
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.dll
+/home/mobydi/Documents/Workspace/other/Transporter/Transporter.Domain/obj/Debug/netcoreapp2.1/Transporter.Domain.pdb
