@@ -1,0 +1,11 @@
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/bin/Debug/netcoreapp2.1/lab3_Miha.deps.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/bin/Debug/netcoreapp2.1/lab3_Miha.runtimeconfig.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/bin/Debug/netcoreapp2.1/lab3_Miha.runtimeconfig.dev.json
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/bin/Debug/netcoreapp2.1/lab3_Miha.dll
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/bin/Debug/netcoreapp2.1/lab3_Miha.pdb
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.csprojAssemblyReference.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.csproj.CoreCompileInputs.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.AssemblyInfoInputs.cache
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.AssemblyInfo.cs
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.dll
+/Users/andriizozulia/Desktop/Study/LABS/C#/lab3_miha/lab3_Miha/lab3_Miha/obj/Debug/netcoreapp2.1/lab3_Miha.pdb
