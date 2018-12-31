@@ -1,0 +1,10 @@
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\bin\Debug\Program.exe.config
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\bin\Debug\Program.exe
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\bin\Debug\Program.pdb
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\bin\Debug\lab4.dll
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\bin\Debug\lab4.pdb
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\obj\Debug\Program.csprojAssemblyReference.cache
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\obj\Debug\Program.csproj.CopyComplete
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\obj\Debug\Program.exe
+E:\University\C#\3rdCourse\Lab4\_lab4\lab4\Program\obj\Debug\Program.pdb
